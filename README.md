@@ -1,6 +1,6 @@
 # food_app
 
-A new Flutter project.
+🍽️ Breakfast App – Explore various breakfast categories like salads, cakes, and pies. Get personalized diet-friendly breakfast recommendations and discover popular pancakes to start your day right! 🥞🥗🍰
 
 ## Getting Started
 
